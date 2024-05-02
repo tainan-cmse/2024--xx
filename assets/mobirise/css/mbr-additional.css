@@ -1938,7 +1938,7 @@ a {
   width: 100%;
 }
 .cid-ubsqomPoll {
-  padding-top: 0rem;
+  padding-top: 4rem;
   padding-bottom: 6rem;
   background-color: #ffffff;
 }
@@ -3673,6 +3673,41 @@ a {
 .cid-sFGS12H2E8 .image-wrapper img {
   width: 100%;
   object-fit: cover;
+}
+.cid-ubDNM5HF3m {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-ubDNM5HF3m .mbr-text {
+  color: #767676;
+  text-align: center;
+}
+.cid-ubDNM5HF3m .card-img span {
+  font-size: 2rem;
+  color: #000000;
+}
+.cid-ubDNM5HF3m .card {
+  margin-bottom: 1rem;
+}
+.cid-ubDNM5HF3m .card-title,
+.cid-ubDNM5HF3m .card-img {
+  text-align: center;
+}
+.cid-ubDNM5HF3m .row {
+  justify-content: center;
+}
+.cid-ubDNM5HF3m .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-ubDNM5HF3m .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
 }
 .cid-sFGSX04rSl {
   padding-top: 6rem;
