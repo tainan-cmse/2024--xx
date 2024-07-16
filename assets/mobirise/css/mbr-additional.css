@@ -8205,51 +8205,16 @@ a {
 .cid-uiCTLsptjH .item-subtitle {
   text-align: center;
 }
-.cid-uiCMwskunR {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-  background-color: #fff0b0;
-}
-.cid-uiCMwskunR .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-uiCMwskunR .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-.cid-uiCMwskunR ul {
-  list-style: none;
-  margin: 0;
-  padding-left: 2.5rem;
-}
-.cid-uiCMwskunR li {
-  position: relative;
-  margin-bottom: 1rem;
-}
-.cid-uiCMwskunR ul li::before {
-  position: absolute;
-  left: -1.6rem;
-  content: "\2022";
-  color: #ffffff;
-  font-weight: bold;
-  font-size: 2rem;
-  width: 1.6rem;
-}
-.cid-uiCMwskunR H3 {
-  text-align: center;
-}
-.cid-uiCMwskunR .list {
-  text-align: center;
-}
 .cid-uiCWjsdRVm {
   padding-top: 5rem;
   padding-bottom: 5rem;
   background-color: #ffffff;
+}
+.cid-uiCWjsdRVm .mbr-section-subtitle DIV {
+  text-align: center;
+}
+.cid-uiCWjsdRVm .mbr-text {
+  text-align: center;
 }
 .cid-uiCWQZT14r {
   padding-top: 0rem;
