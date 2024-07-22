@@ -7820,6 +7820,39 @@ a {
 .cid-uiCT1F8xe1 .mbr-section-title {
   text-align: center;
 }
+.cid-ujeor7jvUz {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-ujeor7jvUz .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-ujeor7jvUz .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+@media (max-width: 991px) {
+  .cid-ujeor7jvUz .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-ujeor7jvUz .row {
+  flex-direction: row-reverse;
+}
+.cid-ujeor7jvUz img {
+  width: 100%;
+}
+@media (min-width: 992px) {
+  .cid-ujeor7jvUz .text-wrapper {
+    padding: 2rem;
+  }
+}
 .cid-uiCEiCIKTh {
   padding-top: 0rem;
   padding-bottom: 6rem;
