@@ -63,7 +63,11 @@
     "publishChangesOnly": true,
     "mcSmartCart": {
       "currency": "USD"
-    }
+    },
+    "publishType": "local",
+    "gitHubName": "tainan-cmse",
+    "gitHubPath": "2024-",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
