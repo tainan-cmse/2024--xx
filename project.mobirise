@@ -58,16 +58,12 @@
     "gdpr": false,
     "pwa-switcher": false,
     "uniqCompNum": 487,
-    "versionPublish": "5.5.2",
+    "versionPublish": "5.4.1",
     "screenshot": "screenshot.png",
     "publishChangesOnly": true,
     "mcSmartCart": {
       "currency": "USD"
-    },
-    "publishType": "github",
-    "gitHubName": "tainan-cmse",
-    "gitHubPath": "2024-",
-    "publishPath": "@PROJECT_PATH@"
+    }
   },
   "pages": {
     "index.html": {
