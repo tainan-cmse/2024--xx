@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "大宮町縱走-trail",
-    "currentPage": "page17-3.html",
+    "currentPage": "page16.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -61,7 +61,7 @@
     "uniqCompNum": 756,
     "versionPublish": "5.5.2",
     "screenshot": "screenshot.png",
-    "publishChangesOnly": true,
+    "publishChangesOnly": false,
     "mcSmartCart": {
       "currency": "USD"
     }
